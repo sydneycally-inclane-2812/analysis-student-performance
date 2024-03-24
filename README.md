@@ -77,3 +77,6 @@ School project for analysis of student performance using linear regression.
 
 
 Dropped all irrelevant and low correlation columns
+
+
+https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.pmrj.2012.10.013
